@@ -190,16 +190,23 @@ Contacts download app → They create their own circles → Repeat
 
 ## Pricing & Monetization
 
-### Freemium Model
+### Transaction-Based Model (2.5% Capped at $25/month)
 
-**Free Tier**
-- Circles up to 8 members
-- Standard cycle lengths (monthly)
-- Basic trust verification
+**How It Works**
+- 2.5% fee on each payout received
+- Monthly cap of $25 per user (no matter how many circles or payouts)
+- Simple, transparent pricing—users never pay more than $25/month
 
-**Premium Tier ($2.99/month or 1% of payout)**
-- Circles up to 20 members
+**Why This Model**
+- **Fair**: Small savers pay proportionally less
+- **Predictable**: Heavy users know their maximum cost
+- **Aligned incentives**: We succeed when users save more
+- **No tiers to manage**: Everyone gets full features
+
+**All Users Get**
+- Unlimited circles (any size)
 - Flexible cycle lengths
+- Full trust verification
 - Priority support
 - Advanced analytics
 - Insurance/guarantee fund access
@@ -210,8 +217,10 @@ Contacts download app → They create their own circles → Repeat
 |--------|--------|--------|--------|
 | Active Circles | 5,000 | 25,000 | 100,000 |
 | Active Users | 40,000 | 200,000 | 800,000 |
-| Premium Conversion | 10% | 15% | 20% |
-| ARR | $144K | $1.08M | $5.76M |
+| Avg Revenue/User/Month | $8 | $10 | $12 |
+| ARR | $3.84M | $24M | $115M |
+
+*Note: Average revenue assumes mix of users hitting cap ($25) and smaller savers paying less.*
 
 ---
 
